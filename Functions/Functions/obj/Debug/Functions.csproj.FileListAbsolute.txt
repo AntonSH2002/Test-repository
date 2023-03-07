@@ -1,0 +1,11 @@
+C:\Users\Антон\source\repos\Functions\Functions\bin\Debug\Functions.exe.config
+C:\Users\Антон\source\repos\Functions\Functions\bin\Debug\Functions.exe
+C:\Users\Антон\source\repos\Functions\Functions\bin\Debug\Functions.pdb
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.csproj.AssemblyReference.cache
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.Properties.Resources.resources
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.csproj.GenerateResource.cache
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.exe
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.pdb
+C:\Users\Антон\source\repos\Functions\Functions\obj\Debug\Functions.Functions.resources
